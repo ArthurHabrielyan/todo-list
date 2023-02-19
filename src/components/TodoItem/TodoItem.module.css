@@ -1,0 +1,17 @@
+.button{
+    margin-right: 10px;
+}
+
+.todoItem{
+    display: flex;
+     justify-content: space-between;
+     margin-top: 20px; 
+}
+
+.lineThrough{
+    text-decoration: line-through;
+}
+
+.defaultLine{
+    text-decoration: none;
+}

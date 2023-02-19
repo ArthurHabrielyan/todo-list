@@ -1,0 +1,9 @@
+.todoItem{
+    display: flex;
+     justify-content: space-between;
+     margin-top: 20px; 
+}
+
+.formControl{
+    width: 20%;
+}

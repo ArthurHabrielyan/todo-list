@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "status": true,
+        "title": "First todo"
+    },
+    {
+        "id": 2,
+        "status": true,
+        "title": "Second todo"
+    },
+    {
+        "id": 3,
+        "status": true,
+        "title": "Third  todo"
+    }
+]

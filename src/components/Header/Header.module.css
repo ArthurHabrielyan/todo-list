@@ -1,0 +1,12 @@
+.headerTitle{
+    height: 80px;
+    background-color: aqua;
+    margin-bottom: 20px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    font-size: 24px;
+    text-transform: uppercase;
+}
